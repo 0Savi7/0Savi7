@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I like cake
 
 - python projects -> https://github.com/qxresearch/qxresearch-event-1
+- online python IDE🐍 -> https://www.online-python.com/
 
 <!---
 0Savi7/0Savi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
